@@ -1,7 +1,7 @@
-## House Prices:Exploratory Data Analysis
-* Loaded .csv file to a Pandas DataFrame
+## Boston House Prices 
+* Loaded the .csv file to a Pandas DataFrame
 * Observed the data structure
+* A deeper look
 * Descriptive statistics
 * Univariate/Multivariate Analyses
 * Visualizations and Insigfhts
-* Model Buiding
