@@ -1,7 +1,8 @@
-## Boston House Prices 
+## Music and Mental Health EDA
+* Imported relevant libraries
 * Loaded the .csv file to a Pandas DataFrame
-* Observed the data structure
-* A deeper look
+* A deeper look at the data
 * Descriptive statistics
+* Handling missing values and outliers
 * Univariate/Multivariate Analyses
 * Visualizations and Insigfhts
