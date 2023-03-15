@@ -1,4 +1,4 @@
-## Music and Mental Health EDA
+## Music and Mental Health (EDA)
 * Imported relevant libraries
 * Loaded the .csv file to a Pandas DataFrame
 * A deeper look at the data
