@@ -5,4 +5,4 @@
 * Descriptive statistics
 * Handling missing values and outliers
 * Univariate/Multivariate Analyses
-* Visualizations and Insigfhts
+* Visualizations and Insights
